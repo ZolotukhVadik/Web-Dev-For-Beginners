@@ -20,7 +20,7 @@ After this assignment, you'll learn how to:
 - Create a website to showcase your resume
 
 ### Prerequisites
-
+##check
 1. A GitHub account. Navigate to [GitHub](https://github.com/) and create an account if you haven't already.
 
 ## Steps
